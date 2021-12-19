@@ -81,9 +81,9 @@ $ `git push -u gitlab-origin master`
 <hr>
 <hr>
 
-#How to install and configure GitLab Runner for CI/CD
+# How to install and configure GitLab Runner for CI/CD
 
-###Install using Linux Repository
+### Install using Linux Repository
 
 **_[Before installing GitLab Runner install Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)_**
 
