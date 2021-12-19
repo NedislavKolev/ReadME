@@ -34,19 +34,19 @@
 
 - On your host machine:
 
-`$ cd to desired folder (root folder of project)`
+$ `cd to desired folder (root folder of project)`
 
-`$ git init`
+$ `git init`
 
-`$ git remote <add gitlab-origin <project url>`
+$ `git remote <add gitlab-origin <project url>`
 
-`$ git add .`
+$ `git add .`
 
-`$ git status`
+$ `git status`
 
-`$ git commit -m "Hello Commit"`
+$ `git commit -m "Hello Commit"`
 
-`$ git push -u gitlab-origin master`
+$ `git push -u gitlab-origin master`
 
 <hr>
 <hr>
