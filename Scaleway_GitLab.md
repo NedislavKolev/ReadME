@@ -85,7 +85,8 @@
 
 ###Install using Linux Repository
 
-**_Before installing GitLab Runner install Docker_**
+**_[Before installing GitLab Runner install Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)_**
+
 
 $ `curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.deb.sh" | sudo bash`
 
