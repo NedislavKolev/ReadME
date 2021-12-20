@@ -75,7 +75,7 @@ $ `git push -u gitlab-origin master`
 **6. SSH Keys**
 - Public SSH Key of the people who will have access to the instance
 
-**7. Access GitLab**
+**7. Access Ubuntu**
 - ssh root@[public IP Address]
 
 <hr>
